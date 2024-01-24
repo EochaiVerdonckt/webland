@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Database>
+      <usernameDb>unitleuv_user</usernameDb>
+      <passwordDb>Luckies8</passwordDb>
+      <hostname>localhost</hostname>
+      <dbname>unitleuv_DB</dbname>
+</Database>

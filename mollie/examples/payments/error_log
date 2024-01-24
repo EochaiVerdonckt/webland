@@ -1,0 +1,2 @@
+[01-Aug-2020 16:25:33 UTC] PHP Warning:  require_once(/home/webkeuke/public_html/mollie/examples/../vendor/autoload.php): failed to open stream: No such file or directory in /home/webkeuke/public_html/mollie/examples/initialize.php on line 9
+[01-Aug-2020 16:25:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/webkeuke/public_html/mollie/examples/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/webkeuke/public_html/mollie/examples/initialize.php on line 9
